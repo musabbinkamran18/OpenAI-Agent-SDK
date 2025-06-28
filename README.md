@@ -20,7 +20,6 @@ The SDK has two design principles:
    but few enough primitives to make 
    it quick to learn
 2. Works great out of the box
-======================================
 	Here are the main features 
 		of the SDK
 1) Agent Loop : Built-in agent loop 
