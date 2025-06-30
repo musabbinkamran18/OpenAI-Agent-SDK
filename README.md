@@ -20,13 +20,14 @@ talk and jump to main work.
 #   but few enough primitives to make 
 #   it quick to learn
 # 2. Works great out of the box
-	 Here are the main features 
-		of the SDK
+ Here are the main features 
+of the SDK
 # 1) Agent Loop : Built-in agent loop 
   # that handles calling tools, sending 
   # results to the LLM, and looping until 
  #  the LLM is done.
-# 2) Python-First : Use built-in language
-  # features to orchestrate and chain 
-  # agents, rather than needing to learn 
-  # new abstractions.
+# 2) Python-First : 
+Use built-in language
+features to orchestrate and chain 
+agents, rather than needing to learn 
+new abstractions.
