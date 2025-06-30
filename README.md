@@ -16,7 +16,7 @@ Why use the Agent SDK ?
 
 The SDK has two design principles:
 ======================================
-1. Enough features to be worth using
+# 1. Enough features to be worth using
    but few enough primitives to make 
    it quick to learn
 2. Works great out of the box
@@ -29,4 +29,4 @@ The SDK has two design principles:
 2) Python-First : Use built-in language
    features to orchestrate and chain 
    agents, rather than needing to learn 
-   new abstractions.
+   new abstractions.#
